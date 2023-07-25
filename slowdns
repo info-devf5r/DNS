@@ -94,7 +94,7 @@ Option9 () {
 
 Option10 () {
     clear
-    wget https://raw.githubusercontent.com/Andyyuda/DNS-ANDY/main/update
+    wget https://raw.githubusercontent.com/info-devf5r/DNS-ANDY/main/update
     chmod +x update
     bash update
 }

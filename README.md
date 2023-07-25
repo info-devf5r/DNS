@@ -1,8 +1,8 @@
-# DNS-KLMPK By ANDYYUDA KLMPK ( ENGLISH )
+# DNS-KLMPK By info-devf5r KLMPK ( ENGLISH )
 ```
 * DNS-KLMPK SLOWDNS SCRIPT
 ```
-![logo](https://raw.githubusercontent.com/Andyyuda/DNS-ANDY/main/slowdns.jpg
+![logo](https://raw.githubusercontent.com/info-devf5r/DNS-ANDY/main/slowdns.jpg
 )
 
 ```
@@ -24,14 +24,14 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/info-devf5r/DNS/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
 
-## :octocat: Translated and Modded by Andyyuda KLMPK
+## :octocat: Translated and Modded by info-devf5r KLMPK
 <ul>
- <li>TELEGRAM CHANNEL: @Andyyuda
+ <li>TELEGRAM CHANNEL: @info-devf5r
  <li>FACEBOOK: https://web.facebook.com/andizlalumnungu/
  <li>INSTAGRAM: andyyuda52
  <li>TWITTER: Andyyuda52
@@ -41,4 +41,4 @@ rm -rf install; apt update; wget https://github.com/Andyyuda/DNS-ANDY/raw/main/i
 
 ## :octocat: Credits
 
-1. [@Andyyuda )
+1. [@info-devf5r )
